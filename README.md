@@ -1,4 +1,4 @@
-# 🛡️ SentinelGraph — Real-Time Financial Fraud Intelligence Platform
+# 🛡️ AegisFlow — Real-Time Financial Fraud Intelligence Platform
 
 A full-stack, real-time financial fraud detection, explainable risk scoring, pattern discovery, and graph intelligence platform built with **Python, Streamlit, Supabase (PostgreSQL), FastAPI, Pandas, Scikit-learn, NetworkX, Plotly, and PyVis**.
 
@@ -42,7 +42,7 @@ A full-stack, real-time financial fraud detection, explainable risk scoring, pat
 ## 📁 Project Structure
 
 ```text
-c:\REVS\
+
 ├── .env.example                  # Supabase & API environment variable template
 ├── README.md                     # Documentation & quickstart guide
 ├── requirements.txt              # Pinned Python dependencies
