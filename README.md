@@ -94,3 +94,10 @@ A full-stack, real-time financial fraud detection, explainable risk scoring, pat
 .\.venv\Scripts\uvicorn api.main:app --reload --port 8000
 ```
 Interactive Swagger docs are served at `http://localhost:8000/docs`.
+
+### Team Revelations
+```text
+Mopuri Samuel Sandeep
+Bandi Mokshanath Reddy
+Kalavakurthy Prasanna Kumar Reddy
+```
